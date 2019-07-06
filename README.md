@@ -1,9 +1,5 @@
-# Notas:
+# Aplicación de Turnos
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
-
-Recuerden que deben de reconstruir los módulos de node con el comando
-
-```
-npm install
-```
+* Solicitud de Turnos
+* Atención de Turnos
+* Pantalla pública
